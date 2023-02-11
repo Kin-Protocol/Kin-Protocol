@@ -20,8 +20,10 @@ There needs to be a lower level inventive system and structure outlined in order
 (insert chart)
 
 ## Staking
+In order to cast a vote your Kin must be locked in the staking module and will be subject to slashing to rectify negative repercussions of governance votes.
 
 ## Incentives
+To incentivize voting it is likely that a proposal must be made via the staking module to provide staking emissions.  This will likely come from a portion of the Kin reserves.  This will give smaller holders the opportunity to earn additional kin while having no disincentive to participate in governance.
 
 ## Kin Reserves
 
