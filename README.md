@@ -26,6 +26,7 @@ In order to cast a vote your Kin must be locked in the staking module and will b
 To incentivize voting it is likely that a proposal must be made via the staking module to provide staking emissions.  This will likely come from a portion of the Kin reserves.  This will give smaller holders the opportunity to earn additional kin while having no disincentive to participate in governance.
 
 ## Kin Reserves
+TBD
 
 ## Protocol Governance 
 Changes to the ecosystem, whether it be the KRE or proposals to for Kin reserves, will be ratified through onchain Kin Improvement Proposals (KIPs) using the Governance portal. This process is to ensure extensive discussion is had on proposals prior to being pushed to the blockchain.  Any kin staked via the staking module will be able to vote on KIPs.
@@ -34,6 +35,7 @@ Changes to the ecosystem, whether it be the KRE or proposals to for Kin reserves
 KIP Creation &rarr; KIP Feedback &rarr; Signal Collection &rarr; Implementation &rarr; Governance of the Proposal
 
 ## Audits
+TBD
 
 ## Connect with the community
 You can join the Kin [Community Discord](https://discord.gg/9Nr2V7UBAT), [KinShips](https://t.co/woIKtqPpHU), and [PumpkinLabs](https://discord.gg/Ppu2vesW)
