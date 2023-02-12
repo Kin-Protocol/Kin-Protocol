@@ -31,7 +31,7 @@ In order to cast a vote your Kin must be locked in the staking module and will b
 
 ## Incentives
 
-To incentivize voting it is likely that a proposal must be made to provide staking emissions.  Stakers would earn a percentage of protocol fees.  This will likely come from a portion of the Kin reserves.  This will give smaller holders the opportunity to earn additional kin while having no disincentive to participate in governance.  
+To incentivize voting it is likely that a proposal must be made to provide staking emissions.  Emissions should be decided by the governance process and should optimize for health and security of the protocol, the Kin Ecosystem and the Kin token respectively.  Stakers would earn a percentage of protocol emissions.  This will likely come from a portion of the Kin reserves.  This will give smaller holders the opportunity to earn additional kin while having no disincentive to participate in governance.  
 
 ## Slashing
 
