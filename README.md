@@ -9,7 +9,7 @@ ecosystem of digital services for daily life](https://whitepaper.io/document/71/
 
 ## History of Kin
 
-Kin was promptly put into action in 2017 and through multiple iterations, ups and downs, nearly 6 years had past since the whitepaper was drafted and there was a small but vibrant economy of apps.  However, growth remained stagnant and the inital goal of decentralizing appeared to become further and further away.  This was due to a number of factors but at the center of it was that the company at the center, the Kin Foundation, was always the ones creating the rules and calling the shots.  The intial concept that was laid out by the whitepaper had assumed that the Kin Foundation was a temporary measure and would eventually automate their own jobs away and decentralize the governance. Alas, this did not happen.
+Kin was promptly put into action in 2017 and through multiple iterations, ups and downs, nearly 6 years had past since the whitepaper was drafted and there was a small but vibrant economy of apps.  However, growth remained stagnant and the inital goal of decentralizing appeared to become further and further away.  This was due to a number of factors but at the center of it was the Kin Foundation, which was always the ones creating the rules and calling the shots.  The intial concept that was laid out by the whitepaper had assumed that the Kin Foundation was a temporary measure and would eventually automate their own jobs away and decentralize the governance. Unfortunately over 5 years had passed and this did not happen.
 
 ## Documentation
 
