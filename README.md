@@ -5,7 +5,7 @@ A high level repo to lay out a proposed governance system for the Kin Ecosystem
 ## What is Kin?
 
 Kin is a token but more importantly an idea that was originally conceptualized by Ted Livingston and members of Kik Interactive in the white paper [Kin: a decentralized 
-ecosystem of digital services for daily life](https://whitepaper.io/document/71/kin-whitepaper) The white paper lays out and idea to create a decentralized digital economy and shift the paradigm towards an economy of creators and developers and not of centralized companies that control the means for monetization for all. 
+ecosystem of digital services for daily life](https://whitepaper.io/document/71/kin-whitepaper) The white paper lays out an idea to create a decentralized digital economy and shift the paradigm towards an economy of creators and developers and not of centralized companies that control the means for monetization for all. 
 
 ## History of Kin
 
