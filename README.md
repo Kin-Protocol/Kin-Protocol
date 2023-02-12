@@ -35,7 +35,7 @@ To incentivize voting it is likely that a proposal must be made to provide staki
 
 ## Slashing
 
-The additional incentive to participate if you are staking is that a stable system will keep you from losing Kin via slashing.  If a governance vote is deemed a failure after its implementation and requires resources to rectify a portion of the staked kin can be slashed to rectify the damage caused by a failure. In most cases, the 
+The additional incentive to participate if you are staking is that a stable system will keep you from losing Kin via slashing.  If a governance vote is deemed a failure after its implementation and requires resources to rectify a portion of the staked kin can be slashed to rectify the damage caused by a failure. **Slashing does not exist but will be decided upon and introduced in a KIP**
 
 ## Kin Reserves
 
