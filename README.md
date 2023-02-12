@@ -27,7 +27,7 @@ There needs to be a lower level inventive system and structure outlined in order
 
 ## Staking
 
-In order to cast a vote your Kin must be locked in the staking module and will be subject to slashing to rectify negative repercussions of governance votes.
+In order to cast a vote your Kin must be locked in the staking module and will be subject to slashing to rectify negative repercussions of governance votes.  Staking by definition comes with risks.  Prior to implementation of an incentive system the risk will be the slashing and the reward will be your influence over the ecosystem.
 
 ## Incentives
 
