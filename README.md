@@ -23,7 +23,10 @@ There needs to be a lower level inventive system and structure outlined in order
 In order to cast a vote your Kin must be locked in the staking module and will be subject to slashing to rectify negative repercussions of governance votes.
 
 ## Incentives
-To incentivize voting it is likely that a proposal must be made via the staking module to provide staking emissions.  This will likely come from a portion of the Kin reserves.  This will give smaller holders the opportunity to earn additional kin while having no disincentive to participate in governance.
+To incentivize voting it is likely that a proposal must be made to provide staking emissions.  Stakers would earn a percentage of protocol fees.  This will likely come from a portion of the Kin reserves.  This will give smaller holders the opportunity to earn additional kin while having no disincentive to participate in governance.  
+
+## Slashing
+The additional incentive to participate if you are staking is that a stable system will keep you from losing Kin via slashing.  If a governance vote is deemed a failure after its implementation and requires resources to rectify a portion of the staked kin can be slashed to rectify the damage caused by a failure. What would determine whether this was the case is that there would be 
 
 ## Kin Reserves
 TBD
@@ -32,7 +35,11 @@ TBD
 Changes to the ecosystem, whether it be the KRE or proposals to for Kin reserves, will be ratified through onchain Kin Improvement Proposals (KIPs) using the Governance portal. This process is to ensure extensive discussion is had on proposals prior to being pushed to the blockchain.  Any kin staked via the staking module will be able to vote on KIPs.
 
 ### Governance Process
-KIP Creation &rarr; KIP Feedback &rarr; Signal Collection &rarr; Implementation &rarr; Governance of the Proposal
+### KIP Creation &rarr; KIP Feedback &rarr; Signal Collection &rarr; Implementation &rarr; Governance of the Proposal
+
+KIP Creation - A community member submits a KIP
+
+KIP Feedback - The community evaluates the KIP, discusses potential modification or improvements to be made, feedback collected and ultimately it becomes in a closed status 
 
 ## Audits
 TBD
