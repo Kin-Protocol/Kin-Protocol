@@ -44,7 +44,11 @@ To incentivize voting it is likely that a proposal must be made to provide staki
 
 ## Slashing
 
-The additional incentive to participate if you are staking is that a stable system will keep you from losing Kin via slashing.  If a governance vote is deemed a failure after its implementation and requires resources to rectify a portion of the staked kin can be slashed to rectify the damage caused by a failure. **Slashing does not exist but will be decided upon and introduced in a KIP**
+All good governance systems need a way to hold people accountable for their actions.  Anyone who is staking will be individually responsible, will reap the rewards but may also be subject to consequnces via a maximum slash rate.  This creates individual responsibility amongst stakeholders.  If a governance vote is deemed a failure after its implementation and requires resources to rectify a portion of the staked kin can be slashed to rectify the damage caused by a failure. **Slashing does not exist but will be decided upon and introduced in a KIP**
+
+## Burning 
+
+Another form of suggested slashing is to destroy the locked coins for a malicious vote. If you vote for the failed proposal, in a catastrophic event such as an attack on the network, then the entirety of your coins will be burned.  The voting period should leave enough time that a user can unstake their tokens if they are concerned of the consequences of an upcoming proposal.
 
 ## Protocol Governance 
 
