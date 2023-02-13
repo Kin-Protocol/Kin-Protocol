@@ -66,7 +66,7 @@ Changes to the ecosystem, whether it be the KRE or proposals to for Kin reserves
 
 ## Kin Reserves
 
-Kin Reserves would be allocated by creating governance proposals.  This could initially start small as just a suggestion to its current custodians but the intent is that eventually the governance system and its security and roles apartus would control the wallet that holds the Kin reserves.
+The Kin Reserves according to [the whitepaper](https://whitepaper.io/document/71/kin-whitepaper) is meant to mandate promoting adoption and growth of the Kin Ecosystem.  This has mostly been allocated in the past towards the Foundation.  That pot of funds can be used in whatever way would best suit the growth of the ecosystem and whatever people can imagine for the best method to do so. Kin Reserves would be allocated by creating governance proposals.  This could initially start small as just a suggestion to its current custodians but the intent is that eventually the governance system and its security and roles apartus would control the wallet that holds the Kin reserves.
 
 ## KRE 
 
