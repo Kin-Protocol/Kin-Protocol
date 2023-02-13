@@ -56,7 +56,7 @@ Changes to the ecosystem, whether it be the KRE or proposals to for Kin reserves
 
 ### Governance Process
 
-### KIP Creation &rarr; KIP Feedback &rarr; Signal Collection &rarr; Implementation &rarr; Review & Final Vote
+![Kin_Protocol_Drawing](https://user-images.githubusercontent.com/6373607/218377833-7cca8bb3-f7fd-4a42-b874-dcf59ad297df.jpg)
 
 <ins>**KIP Creation**</ins> - A community member submits a KIP
 
