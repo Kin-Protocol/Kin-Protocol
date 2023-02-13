@@ -47,11 +47,19 @@ Changes to the ecosystem, whether it be the KRE or proposals to for Kin reserves
 
 ### Governance Process
 
-### KIP Creation &rarr; KIP Feedback &rarr; Signal Collection &rarr; Implementation &rarr; Governance of the Proposal
+### KIP Creation &rarr; KIP Feedback &rarr; Signal Collection &rarr; Implementation &rarr; Review & Final Vote
 
-KIP Creation - A community member submits a KIP
+<ins>**KIP Creation**</ins> - A community member submits a KIP
 
-KIP Feedback - The community evaluates the KIP, discusses potential modification or improvements to be made, feedback collected and ultimately it becomes in a closed status 
+<ins>**KIP Feedback**</ins> - The community evaluates the KIP, discusses potential modification or improvements to be made, feedback collected and ultimately it becomes in a closed status 
+
+<ins>**Signal Collection**</ins> - Votes are cast on the KIP
+
+<ins>**Implementation**</ins> - Development takes place and a final version of the code will be submitted at the end for Governance review.  
+
+<ins>**Governance of the Proposal**</ins> - Initially this will just be a vote.  In later iterations this could be review by some trusted developers who have been assigned roles of reviewer.  If vote does not pass it will get recycled for revision and the governance reviewers, when they exist as roles would give feedback to the team and community of the changes that must take place to pass the vote 
+
+
 
 ## Audits
 TBD
