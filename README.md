@@ -11,6 +11,10 @@ ecosystem of digital services for daily life](https://whitepaper.io/document/71/
 
 Kin was promptly put into action in 2017 and through multiple iterations, ups and downs, nearly 6 years had past since the whitepaper was drafted and there was a small but vibrant economy of apps.  However, growth remained stagnant and the inital goal of decentralizing appeared to become further and further away.  This was due to a number of factors but at the center of it was the Kin Foundation, which was always the ones creating the rules and calling the shots.  The intial concept that was laid out by the whitepaper had assumed that the Kin Foundation was a temporary measure and would eventually automate their own jobs away and decentralize the governance. Unfortunately over 5 years had passed and this did not happen.
 
+## Why Kin Protocol?
+
+This model is a very open ended suggestion for how governance voting could work that solves for the basic issues of game theory and prevents centralization.  The inspiration for it was [Vitalik Butrin's 2021 article - Moving beyond coin voting governance](https://vitalik.ca/general/2021/08/16/voting3.html)
+
 ## Documentation
 
 The documentation of the Protocol and Governance exists at TBD (put link here)
@@ -32,7 +36,7 @@ A Kin Improvement Proposal.  It is a suggestion for changes that would be made t
 
 ## Staking
 
-In order to cast a vote your Kin must be locked in the staking module and will be subject to slashing to rectify negative repercussions of governance votes.  Staking by definition comes with risks.  Prior to implementation of an incentive system the risk will be the slashing and the reward will be your influence over the ecosystem.
+In order to cast a vote your Kin must be locked in the staking module and will be subject to slashing to rectify negative repercussions of governance votes.  Staking by definition comes with risks.  Prior to implementation of an incentive system the risk will be the slashing and the reward will be your influence over the ecosystem.  Upon staking you would be given an amount of stKin (staked kin) that can be exchanged for kin via the staking module after a period of 30 days of cooldown.
 
 ## Incentives
 
@@ -70,7 +74,7 @@ The Kin Reserves according to [the whitepaper](https://whitepaper.io/document/71
 
 ## KRE 
 
-Similar to the Kin reserves, it would have to start as a suggestion to current custodians of the KRE that money be allocated to this governance mechanism.  Eventually the KRE can be decided upon by community members via the goverance protocol.
+According to the orignal [whitepaper](https://whitepaper.io/document/71/kin-whitepaper) KRE is meant to constitute 20% of the Kin Reserves.  The method  Similar to the Kin reserves, it would have to start as a suggestion to current custodians of the KRE that money be allocated to this governance mechanism.  Eventually the KRE can be decided upon by community members via the goverance protocol.
 
 ## Audits
 TBD
@@ -78,3 +82,4 @@ TBD
 ## Connect with the community
 
 You can join the Kin [Community Discord](https://discord.gg/9Nr2V7UBAT), [KinShips](https://t.co/woIKtqPpHU), and [PumpkinLabs](https://discord.gg/Ppu2vesW)
+Tag @mocolicious#9242 if you have any questions or suggestions.
