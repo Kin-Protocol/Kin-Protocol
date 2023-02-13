@@ -62,9 +62,15 @@ Changes to the ecosystem, whether it be the KRE or proposals to for Kin reserves
 
 <ins>**Implementation**</ins> - Development takes place and a final version of the code will be submitted at the end for Governance review.  
 
-<ins>**Final Review and vote**</ins> - Initially this will just be a vote.  In later iterations this could be review by some trusted developers who have been assigned roles of reviewer.  If vote does not pass it will get recycled for revision and the governance reviewers, when they exist as roles would give feedback to the team and community of the changes that must take place to pass their review or alternatively if it failed the vote then they willgather community feedback on it to return to the development team.  An example of how roles can work would be [Dapp Hub's DS Role Repo](https://github.com/dapphub/ds-roles/) which is used on many Ethereum governance projects.
+<ins>**Final Review and vote**</ins> - Initially this will just be a vote.  In later iterations this could be review by some trusted developers who have been assigned roles of reviewer.  If vote does not pass it will get recycled for revision and the governance reviewers, when they exist as roles would give feedback to the team and community of the changes that must take place to pass their review or alternatively if it failed the vote then they willgather community feedback on it to return to the development team.  An example of how roles can work would be [Dapp Hub's DS Role Repo](https://github.com/dapphub/ds-roles/) and [DS Auth Repo](https://github.com/dapphub/ds-auth/)  which are used on many Ethereum governance projects such as AAVE, E.
 
+## Kin Reserves
 
+Kin Reserves would be allocated by creating governance proposals.  This could initially start small as just a suggestion to its current custodians but the intent is that eventually the governance system and its security and roles apartus would control the wallet that holds the Kin reserves.
+
+## KRE 
+
+Similar to the Kin reserves, it would have to start as a suggestion to current custodians of the KRE that money be allocated to this governance mechanism.  Eventually the KRE can be decided upon by community members via the goverance protocol.
 
 ## Audits
 TBD
