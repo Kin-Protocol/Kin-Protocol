@@ -81,5 +81,5 @@ TBD
 
 ## Connect with the community
 
-You can join the Kin [Community Discord](https://discord.gg/9Nr2V7UBAT), [KinShips](https://t.co/woIKtqPpHU), and [PumpkinLabs](https://discord.gg/Ppu2vesW)
+You can join the Kin [Community Discord](https://discord.gg/9Nr2V7UBAT), [KinShips](https://t.co/woIKtqPpHU), and [PumpkinLabs](https://discord.gg/KzHqr9csrh)
 Tag @mocolicious#9242 if you have any questions or suggestions.
