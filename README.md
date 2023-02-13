@@ -13,7 +13,7 @@ Kin was promptly put into action in 2017 and through multiple iterations, ups an
 
 ## Why Kin Protocol?
 
-This model is a very open ended suggestion for how governance voting could work that solves for the basic issues of game theory and prevents centralization.  The inspiration for it was [Vitalik Butrin's 2021 article - Moving beyond coin voting governance](https://vitalik.ca/general/2021/08/16/voting3.html)
+This model is a very open ended suggestion for how governance voting could work that solves for the basic issues of game theory and prevents centralization.  The inspiration for it was [Vitalik Butrin's 2021 article - Moving beyond coin voting governance](https://vitalik.ca/general/2021/08/16/voting3.html) but it uses concepts and ideas from [Compound Comet](https://github.com/compound-finance/comet), [MakerDAO Governance](https://github.com/makerdao/chief-keeper) and [AAVE's AAVEnomics](https://github.com/aave/aavenomics)
 
 ## Documentation
 
@@ -36,7 +36,7 @@ A Kin Improvement Proposal.  It is a suggestion for changes that would be made t
 
 ## Staking
 
-In order to cast a vote your Kin must be locked in the staking module and will be subject to slashing to rectify negative repercussions of governance votes.  Staking by definition comes with risks.  Prior to implementation of an incentive system the risk will be the slashing and the reward will be your influence over the ecosystem.  Upon staking you would be given an amount of stKin (staked kin) that can be exchanged for kin via the staking module after a period of 30 days of cooldown.
+In order to cast a vote your Kin must be locked in the staking module and will be subject to slashing to rectify negative repercussions of governance votes.  Staking by definition comes with risks.  Prior to implementation of an incentive system the risk will be the slashing and the reward will be your influence over the ecosystem.  Upon staking you would be given an amount of stKin (staked kin) that can be exchanged for kin via the staking module after a period of 30 days of cooldown. An example of how this could look is [Dapp Hub DSChief Program](https://github.com/dapphub/ds-chief) which is used on applications such as MakerDAO.
 
 ## Incentives
 
@@ -66,7 +66,7 @@ Changes to the ecosystem, whether it be the KRE or proposals to for Kin reserves
 
 <ins>**Implementation**</ins> - Development takes place and a final version of the code will be submitted at the end for Governance review.  
 
-<ins>**Final Review and vote**</ins> - Initially this will just be a vote.  In later iterations this could be review by some trusted developers who have been assigned roles of reviewer.  If vote does not pass it will get recycled for revision and the governance reviewers, when they exist as roles would give feedback to the team and community of the changes that must take place to pass their review or alternatively if it failed the vote then they willgather community feedback on it to return to the development team.  An example of how roles can work would be [Dapp Hub's DS Role Repo](https://github.com/dapphub/ds-roles/) and [DS Auth Repo](https://github.com/dapphub/ds-auth/)  which are used on many Ethereum governance projects such as AAVE, E.
+<ins>**Final Review and vote**</ins> - Initially this will just be a vote.  In later iterations this could be review by some trusted developers who have been assigned roles of reviewer.  If vote does not pass it will get recycled for revision and the governance reviewers, when they exist as roles would give feedback to the team and community of the changes that must take place to pass their review or alternatively if it failed the vote then they willgather community feedback on it to return to the development team.  An example of how roles can work would be [Dapp Hub's DS Role Repo](https://github.com/dapphub/ds-roles/) and [DS Auth Repo](https://github.com/dapphub/ds-auth/)  which are used on many Ethereum governance projects such as AAVE, MakerDao, .
 
 ## Kin Reserves
 
