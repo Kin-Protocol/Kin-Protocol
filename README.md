@@ -39,7 +39,7 @@ This is a formal path to decentralization and autonomy of Kin.
 
 There needs to be a lower level inventive system and structure outlined in order to move forward.  This should solve only for the problem of how the incentive system needs to be structred to get the right participation in voting.  We want maximum participation but we also want the incentives to encourage people to consider the consequences of voting. A base for this model could be the [Solana Governance Program Examples](https://github.com/solana-labs/solana-program-library/tree/master/governance)
 
-(insert chart)
+![image](https://user-images.githubusercontent.com/6373607/218552911-de19e635-ca5d-4645-b15e-bb146f92a9b0.png)
 
 ## KIP
 
