@@ -46,10 +46,6 @@ To incentivize voting it is likely that a proposal must be made to provide staki
 
 The additional incentive to participate if you are staking is that a stable system will keep you from losing Kin via slashing.  If a governance vote is deemed a failure after its implementation and requires resources to rectify a portion of the staked kin can be slashed to rectify the damage caused by a failure. **Slashing does not exist but will be decided upon and introduced in a KIP**
 
-## Kin Reserves
-
-TBD
-
 ## Protocol Governance 
 
 Changes to the ecosystem, whether it be the KRE or proposals to for Kin reserves, will be ratified through onchain Kin Improvement Proposals (KIPs) using the Governance portal. This process is to ensure extensive discussion is had on proposals prior to being pushed to the blockchain.  Any kin staked via the staking module will be able to vote on KIPs.
