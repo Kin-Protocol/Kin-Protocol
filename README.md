@@ -19,11 +19,16 @@ The documentation of the Protocol and Governance exists at TBD (put link here)
 
 This is a formal path to decentralization and autonomy of Kin.
 
-### context
+### **Context**
 
-There needs to be a lower level inventive system and structure outlined in order to move forward.  This should solve only for the problem of how the incentive system needs to be structred to get the right participation in voting.  We want maximum participation but we also want the incentives to encourage people to consider the consequences of voting.  
+There needs to be a lower level inventive system and structure outlined in order to move forward.  This should solve only for the problem of how the incentive system needs to be structred to get the right participation in voting.  We want maximum participation but we also want the incentives to encourage people to consider the consequences of voting. A base for this model could be the [Solana Governance Program Examples](https://github.com/solana-labs/solana-program-library/tree/master/governance)
 
 (insert chart)
+
+## KIP
+
+### **What is a KIP?**
+A Kin Improvement Proposal.  It is a suggestion for changes that would be made to the ecosystem.  This is a low level proposal system that we can build voting mechanisms on top of.  Examples of things that could be voted on is - How the KRE should work, Allocation of Kin Reserves, Election of governance roles, modifications to the governance protocol, etc.
 
 ## Staking
 
@@ -57,7 +62,7 @@ Changes to the ecosystem, whether it be the KRE or proposals to for Kin reserves
 
 <ins>**Implementation**</ins> - Development takes place and a final version of the code will be submitted at the end for Governance review.  
 
-<ins>**Governance of the Proposal**</ins> - Initially this will just be a vote.  In later iterations this could be review by some trusted developers who have been assigned roles of reviewer.  If vote does not pass it will get recycled for revision and the governance reviewers, when they exist as roles would give feedback to the team and community of the changes that must take place to pass the vote 
+<ins>**Final Review and vote**</ins> - Initially this will just be a vote.  In later iterations this could be review by some trusted developers who have been assigned roles of reviewer.  If vote does not pass it will get recycled for revision and the governance reviewers, when they exist as roles would give feedback to the team and community of the changes that must take place to pass the vote 
 
 
 
