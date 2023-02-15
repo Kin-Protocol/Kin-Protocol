@@ -48,7 +48,7 @@ A Kin Improvement Proposal.  It is a suggestion for changes that would be made t
 
 ## Staking
 
-In order to cast a vote your Kin must be locked in the staking module and will be subject to slashing to rectify negative repercussions of governance votes.  Staking by definition comes with risks.  Prior to implementation of an incentive system the risk will be the slashing and the reward will be your influence over the ecosystem.  Upon staking you would be given an amount of stKin (staked kin) that can be exchanged for kin via the staking module after a period of 30 days of cooldown. An example of how this could look is [Dapp Hub DSChief Program](https://github.com/dapphub/ds-chief) which is used on applications such as MakerDAO.
+In order to cast a vote your Kin must be locked in the staking module and will be subject to slashing to rectify negative repercussions of governance votes.  Staking by definition comes with risks.  Prior to implementation of an incentive system the risk will be the slashing and the reward will be your influence over the ecosystem.  Upon staking you would be given an amount of stKin (staked kin) that can be exchanged for kin via the staking module after a period of X days of cooldown. **the days are listed as X because this will be decided in a vote** An example of how this could look is [Dapp Hub DSChief Program](https://github.com/dapphub/ds-chief) which is used on applications such as MakerDAO.
 
 ## Incentives
 
@@ -56,7 +56,7 @@ To incentivize voting it is likely that a proposal must be made to provide staki
 
 ## Slashing
 
-All good governance systems need a way to hold people accountable for their actions.  Anyone who is staking will be individually responsible, will reap the rewards but may also be subject to consequnces via a maximum slash rate.  This creates individual responsibility amongst stakeholders.  If a governance vote is deemed a failure after its implementation and requires resources to rectify a portion of the staked kin can be slashed to rectify the damage caused by a failure. **Slashing does not exist but will be decided upon and introduced in a KIP**
+All good governance systems need a way to hold people accountable for their actions.  Anyone who is staking will be individually responsible, will reap the rewards but may also be subject to consequnces via a maximum slash rate.  The goal of the slashing is to maintain solvency of the protocol and the Kin reserves.  Stakers could forfeit up to a certain percentage of their stake to the protocol. **Slashing does not currently exist but will be decided upon and introduced in a KIP**
 
 ## Burning 
 
