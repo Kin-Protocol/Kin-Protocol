@@ -44,7 +44,7 @@ There needs to be a lower level inventive system and structure outlined in order
 ## KIP
 
 ### **What is a KIP?**
-A Kin Improvement Proposal.  It is a suggestion for changes that would be made to the ecosystem.  This is a low level proposal system that we can build voting mechanisms on top of.  Examples of things that could be voted on is - How the KRE should work, Allocation of Kin Reserves, Election of governance roles, modifications to the governance protocol, etc.
+A Kin Improvement Proposal.  It is a suggestion for changes that would be made to the ecosystem.  This is a low level proposal system that we as a community can vote on to make modifications to Kin.  Examples of things that could be voted on is - How the KRE should work, Allocation of Kin Reserves, Election of governance roles, modifications to the governance protocol, etc.
 
 ## Staking
 
