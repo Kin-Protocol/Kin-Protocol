@@ -27,14 +27,6 @@ Kin was promptly put into action in 2017 and through multiple iterations, ups an
 
 This model is a very open ended suggestion for how governance voting could work that solves for the basic issues of game theory and prevents centralization.  The inspiration for it was [Vitalik Butrin's 2021 article - Moving beyond coin voting governance](https://vitalik.ca/general/2021/08/16/voting3.html) but it uses concepts and ideas from [Compound Comet](https://github.com/compound-finance/comet), [MakerDAO Governance](https://github.com/makerdao/chief-keeper) and [AAVE's AAVEnomics](https://github.com/aave/aavenomics)
 
-## Documentation
-
-The documentation of the Protocol and Governance exists at TBD (put link here)
-
-## Tokenomics
-
-This is a formal path to decentralization and autonomy of Kin.
-
 ### **Context**
 
 There needs to be a lower level inventive system and structure outlined in order to move forward.  This should solve only for the problem of how the incentive system needs to be structred to get the right participation in voting.  We want maximum participation but we also want the incentives to encourage people to consider the consequences of voting. A base for this model could be the [Solana Governance Program Examples](https://github.com/solana-labs/solana-program-library/tree/master/governance)
