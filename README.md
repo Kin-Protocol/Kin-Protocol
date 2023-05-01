@@ -81,7 +81,9 @@ The Kin Reserves according to [the whitepaper](https://whitepaper.io/document/71
 According to the orignal [whitepaper](https://whitepaper.io/document/71/kin-whitepaper) KRE is meant to constitute 20% of the Kin Reserves.  The method  Similar to the Kin reserves, it would have to start as a suggestion to current custodians of the KRE that money be allocated to this governance mechanism.  Eventually the KRE can be decided upon by community members via the goverance protocol.  A DAO structure is highly recommended.
 
 ## Audits
-TBD
+| Program | Mainnet | Audited By | Audit Report | Version | Commit |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |
 
 ## Connect with the community
 
